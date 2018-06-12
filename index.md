@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/williameletronico/laurabvieira/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+    <meta charset="utf-8">
+          <title> Laura Bernadete Vieira </title>
+    <link rel="stylesheet" href="HTML%20treta.css">
+    </head>
+    
+    
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<table border="0">
+<tr>
+<td><h1><strong><font color="blue">Laura Bernadete Vieira</font></strong></h1>
+<h3>Solteira, Brasileira, 25 anos,
+Rua João Lisboa, 63 – Pilares - Rio de Janeiro 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contatos: vieirablaura@gmail.com
+    cel: 21 9.9555 9915
+    </h3></div>
 
-```markdown
-Syntax highlighted code block
+</td>
+<td align="right"><figure id="foto">
+       <img src="laura1.png" >
+    </figure></td> </td>
+</tr>
+<tr>
+<td colspan=2>
+<div class="h3">
+    
+	
+    <h2>Formação Acadêmica</h2>
+    <h4><strong><em>Nível superior</em></strong> Psicologia - IBMR – Instituto Brasileiro de Medicina e Reabilitação | Concluído 12/2016</h4>
+    <h2>Experiência profissional</h2>
+    <h5> <p>Randstad - Analista de RH - Junho/2014 (Atual)
+Atuo na triagem de currículos, seleção de candidatos de forma individual e em grupo, aplicação de testes (Quati, Palográfico, BFP e AC) contato com o cliente, preparação de perfil de vagas, prospecção de vagas e novos clientes, visitas de relacionamento.
+Projeto Olimpíadas - Avaliação de 700 profissionais bilíngues, processo de admissão e demissão a nível Brasil e administração 1200 agentes de bilheteria e coordenadores.
+Projeto Heineken – Restruturação da equipe de promotores de vendas.
+Projeto Lacta – Avaliação e contratação de 260 animadores de páscoa do Rio de Janeiro e regiões.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>IBMR – Estagiária de Orientação Vocacional - Janeiro/2015 á Dezembro/2016
+Atendimento á adultos e adolescentes que estão decidindo seu futuro profissional. Através de pesquisas, análise de provas de interesses, aptidões e personalidade, algumas orientações sobre o percurso acadêmico e profissional indicado, bem como estratégias de autoconhecimento e pesquisa. Testes: G36, R1, AIP, TDP, HTTP entre outros, questionários e demais observações.</p>
 
-- Bulleted
-- List
+<p>Kelly Services consultoria – Estagiaria de RH – Novembro/2013 á Julho/2014
+Atividades: Suporte a atendimento de candidatos, recrutamento, suporte na aplicação de testes (Palográfico, Quati, AC, G36). No DP recolhi documentação, gerando rescisões e auxiliando em outros procedimentos.</p>
 
-1. Numbered
-2. List
+<p>Ammarhes Consultoria em Medicina e Segurança do Trabalho - Assistente Técnico em Segurança do Trabalho – Maio a Set/ 2012 - Contrato Temporário.
+Atividades: Elaboração de documentos (PPRA, LTCAT, laudo ergonômico, laudo de insalubridade, entre outros) de diversas empresas do Rio de Janeiro e São Paulo, treinamentos (CIPA, altura,etc); Parte comercial, elaboração de propostas comerciais e visitas á clientes.</p>
 
-**Bold** and _Italic_ and `Code` text
+<p>Telefônica Vivo - Estagiária em Segurança do Trabalho - Maio/2011 a Maio/2012 Atividades: Investigação, elaboração e abertura de CAT, inspeções de segurança, análise de documentação, treinamentos, elaboração de relatórios, reuniões (CIPA, periódicas,...), organização de SIPAT.</p>
+</h5>
+ 
+</td>
+</tr>
 
-[Link](url) and ![Image](src)
-```
+</table>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/williameletronico/laurabvieira/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    </body>
